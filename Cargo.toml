@@ -1,0 +1,12 @@
+[package]
+name = "fireworks_doodad"
+version = "0.1.0"
+authors = ["Sean"]
+license = "MIT OR Apache-2.0"
+description = "A fireworks display in your own home."
+readme = "README.md"
+edition = "2018"
+
+[dependencies]
+ncurses = "5.99.0"
+rand = "0.7.3"
